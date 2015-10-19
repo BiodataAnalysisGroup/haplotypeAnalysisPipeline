@@ -1,0 +1,3 @@
+This program transforms a haps file into a phase files and also creates the recomb file.
+To execute
+java -jar impute2chromopainter.jar <input_haps_file_path> <output_phase_file_path> <input_genetic_map_file_path> <output_recomb_file_path>
